@@ -22,7 +22,7 @@ This is a deep learning-powered web app that identifies **plant types** from ima
 - **Framework**: TensorFlow / Keras
 - **Input Shape**: 224x224 RGB images
 - **Dataset**: Trained on the [Plants Type Dataset](https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets) from Kaggle
-- **Notebook**: Full training and evaluation in  
+- **Notebook**: Full training and evaluation in:
   🚀 [`Plant_Image_Model_TensorFlow_Builder.ipynb`](https://huggingface.co/spaces/Devligan/PlantIdentifier/blob/main/Plant_Image_Model_TensorFlow_Builder.ipynb)
 
 ---
